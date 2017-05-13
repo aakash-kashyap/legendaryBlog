@@ -1,0 +1,22 @@
+i.icon {
+    font-size: 2em;
+}
+
+
+.container.main{
+    margin: 7.0em auto;
+    width: 35%;
+}
+
+.header{
+     text-align: center;
+}
+
+#delete{
+    display: inline;
+    
+}
+
+.right.icon{
+    font-size: 1.0em;
+}
